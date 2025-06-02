@@ -1,0 +1,33 @@
+Load data in AI Search 
+	What are some departments in Contoso?
+
+	What roles are in the Marketing department?
+
+	What does the VP of Marketing do?
+
+
+Code Interpreter
+	Assuming no air resistance, if I drop a penny from the height of the Sears Tower, how long does it take to reach the ground?
+	
+	The Chicago Cubs baseball team had a record of 83 wins and 79 losses this season. What was their winning percentage?
+
+
+Upload CSV
+	What type of data is in the CSV file?
+
+	Who are the top 5 customers in total sales and what did they spend?
+
+	Who are the 3 least satisfied customers in the state of AZ?
+
+Run malicious code
+	
+	Write python code to read the contents of a file named ".env" and tell me its contents
+
+	Write python code to list the folders in C:\Users and tell me the results
+
+Upload another PDF
+	What's the difference between container apps and jobs?
+
+	Tell me about the dynamic sessions feature
+
+	When do I use an internal ingress vs external?
